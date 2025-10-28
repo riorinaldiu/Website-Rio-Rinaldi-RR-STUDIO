@@ -1,1 +1,0 @@
-<header><img src="images/Hider.png"></header>
