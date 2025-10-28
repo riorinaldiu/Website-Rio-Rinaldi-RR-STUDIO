@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beranda</title><link rel="stylesheet" href="stylerio.css" type="text/css">
+</head>
+<body>
+    <div id="wrapper">
+        <div id="container">
+            <?php include('header.php'); ?>
+			<?php include('nav.php'); ?>
+			
+            <article>
+                <div id="single">
+                    <div id="t-images" style="background:url(images/duagambar.png)">&nbsp;</div>
+                    <h2>Comeback Rio Rinaldi dengan Single 'sorry if i hate you' Tuai Pujian!</h2>
+                    Setelah debutnya pada bulan Mei lalu, Rio Rinaldi musisi dari RR STUDIO resmi melakukan Comeback pertamanya
+					dengan single pertama 'sory if i hate you' yang menjadi penanda berakhirnya era album debut sebelumnya
+					dengan album debut'THE CHAPTER : CHASE' atau 4 Bulan 15 Hari setelah debut, Lagu barunya bergenre Rock Alternative
+					yang emosional, sukses menghanyutkan hati para penggemar, bahkan masa pre-order single ini mampu menjual 144rb Copy 
+					yang jauh lebih meningkat daripada masa pre-order album debutnya, Beragam reaksi komentar positif berdatangan utamanya
+					pada kolom komentar Official Music Video yang dirilis pada 10 Oktober 2025 Lalu.
+                    <div id="more"><a href="artikelpertama.php">Baca selengkapnya</a></div>
+                </div>
+                <div id="single">
+                    <div id="t-images" style="background:url(images/artikel2.png)">&nbsp;</div>
+                    <h2>3 Diduga Calon Trinee Baru RR STUDIO Entertaintment, Apakah Calon Group?</h2>
+                    Bocor, diduga tiga anak muda yang terlihat keluar masuk dalam gedung agensi RR STUDIO Entertainment, dan fans tak sengaja 
+					menemukan foto mereka bertiga dalam sebuah social media yang kosong, beragam spekulasi para fans utamanya fans Rio Rinaldi yang 
+					telah debut lebih awal, mereka menganggap bahwa Tiga pemuda ini diduga adalah trainee untuk debut grup di RR STUDIO Entertainment
+                    <div id="more"><a href="artikelkedua.php">Baca selengkapnya</a></div>
+                </div>
+				<div id="single">
+                    <div id="t-images" style="background:url(images/artikel3.png)">&nbsp;</div>
+                    <h2>RR STUDIO Dukung Gerakan Boikot Israel, Free Palestine</h2>
+                    Di tengah sorotan industri hiburan yang seringkali hanya fokus pada aspek komersial, RR STUDIO Entertainment mulai membangun reputasi yang berbeda. 
+					Para penggemar jeli dan pengamat industri belakangan ini memperhatikan sebuah pola yang konsisten: agensi tersebut tampak sangat selektif dalam 
+					memilih rekanan bisnis dan sponsor. Beredar diskusi hangat di komunitas online bahwa RR STUDIO secara subtil namun tegas, memilih untuk tidak 
+					menjalin kerjasama atau kontrak baru dengan jenama-jenama besar internasional yang diketahui memiliki afiliasi atau memberikan dukungan terbuka 
+					terhadap kepentingan Israel.
+                    <div id="more"><a href="artikelketiga.php">Baca selengkapnya</a></div>
+                </div>
+            </article>
+            <aside>
+                <li class="widget">
+                    <h2>Berita Populer</h2>
+                    <ul>
+                        <li><a href="#">RR STUDIO Diakuisisi HYBE Labels</a></li>
+                        <li><a href="#">Rio Rinaldi Dikonfirmasi Persiapkan Comeback Untuk Q1 2026</a></li>
+                        <li><a href="#">Saham RR STUDIO Tumbuh Pesat 14% Setelah Rilisan Terbaru Rio Rinaldi</a></li>
+                    </ul>
+                </li>
+                <li class="widget">
+                    <h2>Cara Dan Tutorial</h2>
+                    <ul>
+                        <li><a href="#">Cara Membeli Rilis Fisik Di RR STUDIO Official Store</a></li>
+                        <li><a href="#">Cara Vote Rio Rinaldi Untuk Ajang Nominasi MAMA AWARDS 2025</a></li>
+                        <li><a href="#">Cara Melakukan Pra-Simpan Untuk Rilisan Sebelum Dirilis</a></li>
+                    </ul>
+                </li>
+                <li class="widget">
+                    <h2>Aktifitas Terkini</h2>
+                    <ul>
+                        <li><a href="#">Pergerakan Saham RR STUDIO Realtime</a></li>
+                        <li><a href="#">Kegiatan Para Artis RR STUDIO Scadhule Realtime</a></li>
+                        <li><a href="#">Jumlah Capaian Tayangan Dan Pendengar Update Realtime</a></li>
+                    </ul>
+                </li>
+            </aside>
+            <footer>
+                <div id="column">
+                    <h2>LAYANAN</h2>
+                    RR STUDIO Official Store<br>
+                    RR STUDIO Global Audition<br>
+                    RR STUDIO Staf Recrutment<br>
+                    RR STUDIO Family<br>
+                    RR STUDIO Support<br>
+                    RR STUDIO Mitra<br>
+                    RR STUDIO Culture<br>
+                    RR STUDIO Office
+                </div>
+                <div id="column">
+                    <h2>Business Hour</h2>
+                    Silahkan hubungi kami melalui Email riorinaldiofficial@gmail.com / rrstudioofficialacount@gmail.com <a href="#">https://lnkfi.re/RioRinaldi</a>
+					<a href="#">https://lnkfi.re/RRSTUDIO</a>
+                </div>
+                <div id="column">
+                    <h2>Head Office</h2>
+                    Grogol Petamburan, Jakarta Barat. Medan Tuntungan, Medan |
+                    Email : rrstudioofficialacount@gmail.com
+                </div>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

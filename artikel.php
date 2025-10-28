@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Beranda</title><link rel="stylesheet" href="stylerio.css" type="text/css">
+</head>
+<body>
+    <div id="wrapper">
+        <div id="container">
+			<?php include('header.php'); ?>
+			<?php include('nav.php'); ?>
+            <article>
+			<h2>
+            Article
+			<h2>
+            </article>
+            <aside>
+                <li class="widget">
+                    <h2>Berita Populer</h2>
+                    <ul>
+                        <li><a href="#">RR STUDIO Diakuisisi HYBE Labels</a></li>
+                        <li><a href="#">Rio Rinaldi Dikonfirmasi Persiapkan Comeback Untuk Q1 2026</a></li>
+                        <li><a href="#">Saham RR STUDIO Tumbuh Pesat 14% Setelah Rilisan Terbaru Rio Rinaldi</a></li>
+                    </ul>
+                </li>
+                <li class="widget">
+                    <h2>Cara Dan Tutorial</h2>
+                    <ul>
+                        <li><a href="#">Cara Membeli Rilis Fisik Di RR STUDIO Official Store</a></li>
+                        <li><a href="#">Cara Vote Rio Rinaldi Untuk Ajang Nominasi MAMA AWARDS 2025</a></li>
+                        <li><a href="#">Cara Melakukan Pra-Simpan Untuk Rilisan Sebelum Dirilis</a></li>
+                    </ul>
+                </li>
+                <li class="widget">
+                    <h2>Aktifitas Terkini</h2>
+                    <ul>
+                        <li><a href="#">Pergerakan Saham RR STUDIO Realtime</a></li>
+                        <li><a href="#">Kegiatan Para Artis RR STUDIO Scadhule Realtime</a></li>
+                        <li><a href="#">Jumlah Capaian Tayangan Dan Pendengar Update Realtime</a></li>
+                    </ul>
+                </li>
+            </aside>
+            <footer>
+                <div id="column">
+                    <h2>LAYANAN</h2>
+                    RR STUDIO Official Store<br>
+                    RR STUDIO Global Audition<br>
+                    RR STUDIO Staf Recrutment<br>
+                    RR STUDIO Family<br>
+                    RR STUDIO Support<br>
+                    RR STUDIO Mitra<br>
+                    RR STUDIO Culture<br>
+                    RR STUDIO Office
+                </div>
+                <div id="column">
+                    <h2>Business Hour</h2>
+                    Silahkan hubungi kami melalui Email riorinaldiofficial@gmail.com / rrstudioofficialacount@gmail.com <a href="#">https://lnkfi.re/RioRinaldi</a>
+					<a href="#">https://lnkfi.re/RRSTUDIO</a>
+                </div>
+                <div id="column">
+                    <h2>Head Office</h2>
+                    Grogol Petamburan, Jakarta Barat. Medan Tuntungan, Medan |
+                    Email : rrstudioofficialacount@gmail.com
+                </div>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>
